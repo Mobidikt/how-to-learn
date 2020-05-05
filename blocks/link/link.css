@@ -1,5 +1,6 @@
 .link{
     text-decoration: none;
+    color: #2f80ed;
 }
 .link:hover{
     -webkit-transition: 1s ease;
